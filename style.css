@@ -33,6 +33,11 @@ header a{
     color:#183322;
 }
 
+.boton-cv a{
+    text-decoration: none;
+    color:#183322;
+}
+
 .caja-habilidades{
     background-color:#79ae92;
     color: black;
